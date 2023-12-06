@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "My Extension",
+  "version": "1.0.1",
+  "content_scripts": [
+    {
+      "matches": ["https://brightspace.avans.nl/*"],
+      "css": ["styles.css"],
+      "all_frames": true
+    }
+  ]
+}

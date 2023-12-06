@@ -1,0 +1,22 @@
+d2l-navigation-main-header {
+  height: 80px;
+}
+
+/* d2l-navigation-band {
+  height: 0px;
+  display: none;
+} */
+
+.d2l-navigation-s-main-wrapper {
+  height: 2rem !important;
+}
+
+#root-wrapper {
+  padding-top: 0 !important;
+}
+
+.content-panel-header {
+  height: 2.25rem !important;
+  min-height: 2.25rem !important;
+  /* display: none  !important; */
+}
